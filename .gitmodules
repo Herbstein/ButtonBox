@@ -1,0 +1,6 @@
+[submodule "deps/ArduinoDriver"]
+	path = deps/ArduinoDriver
+	url = https://github.com/christophediericx/ArduinoDriver
+[submodule "deps/iRacingSDKWrapper"]
+	path = deps/iRacingSDKWrapper
+	url = https://github.com/NickThissen/iRacingSdkWrapper
